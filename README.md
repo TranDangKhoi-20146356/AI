@@ -1,2 +1,1 @@
 # AI
-bai tap rice
